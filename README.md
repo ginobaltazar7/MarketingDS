@@ -1,2 +1,6 @@
 # MarketingDS
-Marketing Analytics - Concepts and Practice
+
+## Concepts and Practice
+
+Based on "Cutting-Edge Marketing Analytics" by Venkatesan, Farris and Wilcox
+
